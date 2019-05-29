@@ -22,8 +22,10 @@
 				"url": "https://github.com/nathanaela/nativescript-orientation.git"
 		},
 		"dependencies": {
+				"@angular/core": "^8.0.0",
+				"nativescript-dom": "^2.0.0",
 				"nativescript-globalevents": "^1.2.1",
-				"nativescript-dom": "^2.0.0"
+				"rxjs": "^6.5.2"
 		},
 		"keywords": [
 				"NativeScript",
